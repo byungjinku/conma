@@ -1,6 +1,6 @@
 ## 서울시 내 등산로 추천 서비스 '<i>CONMA</i>'
 
-![image](https://user-images.githubusercontent.com/66653030/229333628-36d3354b-1e9d-4067-9a9f-bfe31f32f724.png)
+![image](https://user-images.githubusercontent.com/66653030/229333646-63c16cf7-bf63-4883-9c37-6dcf757ee11a.png)
 
 #### 0.OverView
 
