@@ -1,6 +1,6 @@
 ## 서울시 내 등산로 추천 서비스 '<i>CONMA</i>'
 
-<center><img src="CONMA.png" alt="My Image"></center>
+![image](https://user-images.githubusercontent.com/66653030/229333628-36d3354b-1e9d-4067-9a9f-bfe31f32f724.png)
 
 #### 0.OverView
 
@@ -12,3 +12,4 @@ CONMA는 Decision Tree를 기반으로 사용자의 신체데이터(키, 몸무�
 #### 1.Build
 
 
+![Uploading image.png…]()
