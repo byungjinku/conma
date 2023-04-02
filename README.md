@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/66653030/229333817-70577ea0-aeac-4642-ad0d-074401ac1cbe.png)
 
-#### 0.OverView
+#### OverView
 
 CONMA는 Decision Tree를 기반으로 사용자의 신체데이터(키, 몸무게, 컨디션)을 받아 현재 등반하기 좋은 서울시 내 등산로를 추천해주는 서비스 입니다. 
 또한 챗봇을 통해 테마별(벚꽃, 단풍, 계곡) 등산로를 추천 받을 수 있습니다. 
